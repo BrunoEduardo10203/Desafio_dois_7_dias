@@ -1,0 +1,28 @@
+
+
+.metricas__container{
+    display: flex;
+    padding: 1em 8em;
+}
+
+.metrica__titulo{
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--bordo);
+}
+
+.metrica__subtitulo{
+    color: var(--cinza);
+    padding: 1em 0;
+}
+
+.metrica__paragrafo{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza--claro);
+
+}
+
+.metrica__um{
+    padding: 0 6em;
+}

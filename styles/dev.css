@@ -1,0 +1,35 @@
+.desenvolvedores__design{
+    padding: 1em 0;
+}
+
+
+.desenvolvedores{
+ padding: 0 30vw;
+}
+
+
+.desenvolvedores__titulo{
+    font-size: 20px;
+    color: var(--cinza);
+    padding: 2em 0;
+}
+
+.desenvolvedores__container{
+border: 1px solid #EAECF0;
+padding: 2em 1em;
+border-radius: 20px;
+display:flex;
+flex-direction: column;
+
+
+}
+
+.desenvolvedores__salario{
+    color: var(--cinza--claro);
+    padding: 1em 0;
+    font-size: 16px;
+    margin-top: 1.5em;
+    
+}
+
+
